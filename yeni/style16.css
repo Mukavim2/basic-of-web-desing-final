@@ -100,12 +100,7 @@ gap: 50px;
     align-items: flex-start;
     justify-content: space-between;
 }
-.menu .box-container img{
-    height: 200px;
-    width: 350px;
-   margin: 0 145px 10px 0;
-  
-}
+
 .içerik{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
